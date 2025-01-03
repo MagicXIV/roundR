@@ -1,0 +1,12 @@
+citHeader("To cite roundR in publications use:")
+
+citEntry(
+entry = "Manual",
+author = "Bazen, Jasmijn",
+doi = "10.5281/zenodo.14597374",
+month = "jan",
+title = "MagicXIV/roundR: Version 0.2.0 - First release",
+version = "v-0.2.0",
+year = "2025",
+url = "https://github.com/MagicXIV/roundR"
+}
